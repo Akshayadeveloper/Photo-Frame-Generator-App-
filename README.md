@@ -4,9 +4,27 @@ drives interactions and dynamic frame generation on a canvas.
 For live demo 🍰 Click to visit website ➡️: https://akshayadeveloper.github.io/Photo-Frame-Generator-App/index.html 
 For video▶️ tutorial click here ➡️🥞 https://www.youtube.com/@AkshayaDeveloper.
 <br><br>
-<p><b>Demo</b></p>
-<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App/blob/main/IMG_20240312_125535.jpg">
+<b><p> Mobile 📱 Version Demo</p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_125535.jpg">
+<b><p> Select an Image</p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_125546.jpg">
+<b><p>Set Colour For Frame 🖼️ </p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_125631.jpg">
+<b><p>Click Generate Frame 🖼️ button 🔘</p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_125706.jpg">
+<b><p>Click Download ⏺️🦋Frame 🖼️ button</p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_125728.jpg">
+<b><p>Downloaded 👇 Framed image 🖼️ ☺️view </p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_125807.jpg">
 
+<b><p>Desktop 🖥️ Version Demo </p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_125856.jpg">
+<b><p> </p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_130149.jpg">
+<b><p> </p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/framed_photo.png">
+<b><p> </p></b>
+<img src="https://github.com/Akshayadeveloper/Photo-Frame-Generator-App-/blob/main/IMG_20240312_125837.jpg">
 
 **Project Description:**
 
