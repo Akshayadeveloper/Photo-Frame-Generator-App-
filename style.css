@@ -1,0 +1,57 @@
+ /* styles.css */
+@import url( 
+"https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+body {
+        font-family: Arial, sans-serif; 
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f4f4f4;
+    }
+
+    .container {
+        text-align: center;
+    }
+
+    input[type="color"] {
+        padding: 15px;
+        margin: 5px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+      background-image:linear-gradient(45deg, #7f00ff, #e100ff);
+      }
+    button {
+      background-image:linear-gradient(80deg, #f4c4f3, #fc67fa);
+        padding: 19px 26px;
+        font-size:13.5px;
+        margin: 5px;
+        border: none;
+        border-radius: 6px;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    background-image: linear-gradient(135deg, color(display-p3 .572549 .415686 1) 0%, color(display-p3 1 .466667 .690196) 50%, color(display-p3 1 .701961 .403922) 100%);  
+    }  
+  
+    button:hover {
+        border:1px solid #f7f8f8;
+      background-image:url("https://usagif.com/wp-content/uploads/gify/galaxy-red-galaxy-in-outer-space-usagif.gif");
+      transform: translateY(-3px);
+    }
+  
+  .dwn:hover{
+    background-image:url("https://i.makeagif.com/media/9-16-2018/WmD-Wd.gif");
+    background-image:url("https://i.pinimg.com/originals/0d/fc/c7/0dfcc74e548331e5ebba00d093b5fba8.gif");
+    transform: translateX(-3px);
+  }
+  
+   h2{
+      background-image:linear-gradient(80deg, #03001e, #7303c0, #ec38bc, #fdeff9);
+    text-align:center;
+     -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+   }
