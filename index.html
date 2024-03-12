@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Photo Frame Generator</title>
+ <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="container">
+    <h2 class="h2">Photo Frame Generator</h2>
+    <input type="file" id="upload" accept="image/*" >
+    <br>
+    <canvas id="canvas" style="max-width: 100%; max-height: 300px;"></canvas>
+    <br>
+    <input type="color" id="frameColor" value="#000000">
+    <br>
+    <button onclick="generateFrame()">Generate Frame</button>
+    <button onclick="downloadImage()" class= "dwn">Download Image</button>
+  <div>
+<footer><p style="color:#0047ab;" class="foot">Powered by<a style="color:blue;"href="https://github.com/Akshayadeveloper"target="_blank">
+   &#128151;Akshaya developer &#128159;</a></p>
+</footer></div>
+</div>
+ <script src="./script.js"></script>
+</body>
+</html>
