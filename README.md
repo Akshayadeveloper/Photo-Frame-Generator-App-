@@ -1,7 +1,8 @@
 # Photo-Frame-Generator-App-
 This GitHub repo hosts a user-friendly web tool for framing photos. Users upload an image, select a frame color, and create a framed version, downloadable as PNG. HTML/CSS form the interface, while JavaScript 
 drives interactions and dynamic frame generation on a canvas.
-For live demo 🍰 Click to visit website ➡️: https://akshayadeveloper.github.io/Photo-Frame-Generator-App/index.html 
+For live demo 🍰 Click to visit website ➡️ 
+https://akshayadeveloper.github.io/Photo-Frame-Generator-App-/
 For video▶️ tutorial click here ➡️🥞 https://www.youtube.com/@AkshayaDeveloper.
 <br><br>
 <b><p> Mobile 📱 Version Demo</p></b>
